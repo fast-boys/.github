@@ -78,3 +78,5 @@
 <img src="https://img.shields.io/badge/AWS ec2 ubuntu-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"><img src="https://img.shields.io/badge/20.11.0-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"><img src="https://img.shields.io/badge/1.18.0-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/Github Action-%232C5263.svg?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white">
+<img src="https://img.shields.io/badge/vault-%23FFEC6E.svg?style=for-the-badge&logo=vault&logoColor=white">
