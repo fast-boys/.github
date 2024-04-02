@@ -100,6 +100,6 @@
 
 <br><br>
 
-# ERD Architecture
+# ER Diagram
 
 ![Alt text](/profile/images/erd.PNG)
