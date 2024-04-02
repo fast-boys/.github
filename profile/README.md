@@ -3,7 +3,7 @@
 ![Alt text](/profile/images/mainPage.PNG)
 
 
-<br>
+<br><br>
 
 # 팀 소개
 
@@ -11,6 +11,8 @@
 | :-----------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
 | <img src="https://avatars.githubusercontent.com/u/42796944?v=4" height = 100px> | <img src="https://avatars.githubusercontent.com/u/139519661?v=4" height = 100px> | <img src="https://avatars.githubusercontent.com/u/139520011?v=4" height = 100px> | <img src="https://avatars.githubusercontent.com/u/69495305?v=4" height = 100px> | <img src="https://avatars.githubusercontent.com/u/48636376?v=4" height = 100px> | <img src="https://avatars.githubusercontent.com/u/33650294?v=4" height = 100px> |
 |           `FE 리더`<br>[@leewooseong](https://github.com/leewooseong)           |                  `FE`<br>[@kim-hyunggyu](https://github.com/kim-hyunggyu)                   |         `FE`<br>[@JUNSUTARO](https://github.com/LEEJUNSU11)         |                 `DevOps`<br>[@404](https://github.com/404-not-foundl)                |             `Back Dev.`<br>[@JaeMin Lee](https://github.com/Chosamee)              |               `AI Dev.`<br>[@Lee](https://github.com/Lee-search)               |
+
+<br><br>
 
 # 개발환경
 
@@ -80,3 +82,7 @@
 <img src="https://img.shields.io/badge/Github Action-%232C5263.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white">
 <img src="https://img.shields.io/badge/vault-%23FFEC6E.svg?style=for-the-badge&logo=vault&logoColor=white">
+
+<br><br>
+
+# 서비스 아키텍쳐
