@@ -1,6 +1,6 @@
 # Fastravel
 
-![Alt text](/images/mainPage.PNG)
+![Alt text](/profile/images/mainPage.PNG)
 
 
 <br>
