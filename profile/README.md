@@ -51,7 +51,8 @@
 <img src="https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white"><img src="https://img.shields.io/badge/5.3.6-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/nvidia cublas cu11-%23009639.svg?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/11.10.3.66 cuda-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/scikit learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white"><img src="https://img.shields.io/badge/1.3.2-515151?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/scipy-%238CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white"><img src="https://img.shields.io/badge/1.10.1-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"><img src="https://img.shields.io/badge/2.0.1-515151?style=for-the-badge">
 
 ### Search Server
 
