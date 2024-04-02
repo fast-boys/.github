@@ -39,6 +39,9 @@
 <img src="https://img.shields.io/badge/fast api-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/0.110.0-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white"><img src="https://img.shields.io/badge/2.0.28-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white"><img src="https://img.shields.io/badge/2.6.4-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/1.24.4-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/3.8-515151?style=for-the-badge">
+
 
 ### AI Server
 
