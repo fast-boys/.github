@@ -91,6 +91,7 @@
 <img src="https://img.shields.io/badge/Github Action-%232C5263.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white">
 <img src="https://img.shields.io/badge/vault-%23FFEC6E.svg?style=for-the-badge&logo=vault&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
 
 <br><br>
 
