@@ -19,7 +19,7 @@
 |                                      신창엽                                      |                                     이재민                                      |                                     이우경                                      |
 |:------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
 | <img src="https://avatars.githubusercontent.com/u/69495305?v=4" height = 100px> | <img src="https://avatars.githubusercontent.com/u/48636376?v=4" height = 100px> | <img src="https://avatars.githubusercontent.com/u/33650294?v=4" height = 100px> |
-|                 `DevOps`<br>[@404](https://github.com/404-not-foundl)                |             `Back Dev.`<br>[@JaeMin Lee](https://github.com/Chosamee)              |               `AI Dev.`<br>[@Lee](https://github.com/Lee-search)               |
+|                 `DevOps`<br>[@404](https://github.com/404-not-foundl)<br>[Infra]<br>[Authentication Server]<br>[Stream Server]                |             `Back Dev.`<br>[@JaeMin Lee](https://github.com/Chosamee)<br>[Core Server]              |               `AI Dev.`<br>[@Lee](https://github.com/Lee-search)<br>[AI Server]<br>[Search Server]               |
 
 <br><br>
 
