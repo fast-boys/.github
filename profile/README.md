@@ -1,4 +1,4 @@
-# Fastravel
+# What is Fastravel?
 
 ![Alt text](/profile/images/mainPage.PNG)
 
