@@ -21,11 +21,11 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"><img src="https://img.shields.io/badge/18.2.0-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/20.11.0-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"><img src="https://img.shields.io/badge/10.2.4-515151?style=for-the-badge">
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"><img src="https://img.shields.io/badge/5.1.5-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"><img src="https://img.shields.io/badge/5.0.8-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/5.2.2-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"><img src="https://img.shields.io/badge/5.17.15-515151?style=for-the-badge">
-<img src="https://img.shields.io/badge/react%20zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"><img src="https://img.shields.io/badge/4.4.7-515151?style=for-the-badge">
-<img src="https://img.shields.io/badge/React_Router_dom-CA4245?style=for-the-badge&logo=react-router&logoColor=white"><img src="https://img.shields.io/badge/6.22.3-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/react%20zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"><img src="https://img.shields.io/badge/4.5.0-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/React_Router_dom-CA4245?style=for-the-badge&logo=react-router&logoColor=white"><img src="https://img.shields.io/badge/6.21.3-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/axios-5a29e4?style=for-the-badge&logoColor=white"><img src="https://img.shields.io/badge/1.6.7-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/3.4.1-515151?style=for-the-badge">
 
@@ -82,10 +82,9 @@
 <img src="https://img.shields.io/badge/Github Action-%232C5263.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white">
 <img src="https://img.shields.io/badge/vault-%23FFEC6E.svg?style=for-the-badge&logo=vault&logoColor=white">
-<<<<<<< HEAD
 
 <br><br>
 
 # 서비스 아키텍쳐
-=======
->>>>>>> c9c435bd20263fa9a0c28993981447126030dca7
+
+![Alt text](/profile/images/arch.PNG)
