@@ -58,6 +58,7 @@
 
 <img src="https://img.shields.io/badge/fast api-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/0.110.0-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/3.8-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white"><img src="https://img.shields.io/badge/8.12.1-515151?style=for-the-badge">
 
 ### Stream Server
 
@@ -68,7 +69,9 @@
 
 ### DataBase
 
-
+<img src="https://img.shields.io/badge/maria DB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/mongo DB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white">
 
 ### Infra
 
