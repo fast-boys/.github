@@ -52,6 +52,7 @@
 <img src="https://img.shields.io/badge/pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white"><img src="https://img.shields.io/badge/2.6.4-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/1.24.4-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white"><img src="https://img.shields.io/badge/5.3.6-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white"><img src="https://img.shields.io/badge/8.12.1-515151?style=for-the-badge">
 
 ### AI Server
 
