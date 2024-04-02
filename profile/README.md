@@ -23,7 +23,7 @@
 
 <br><br>
 
-# 개발환경
+# Develop Environment
 
 ### Frontend
 
@@ -94,6 +94,12 @@
 
 <br><br>
 
-# 서비스 아키텍쳐
+# Service Architecture
 
 ![Alt text](/profile/images/arch.PNG)
+
+<br><br>
+
+# ERD Architecture
+
+![Alt text](/profile/images/erd.PNG)
