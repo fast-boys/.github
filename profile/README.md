@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/3.8-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/1.24.4-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white"><img src="https://img.shields.io/badge/5.3.6-515151?style=for-the-badge">
-<img src="https://img.shields.io/badge/nvidia-cublas-cu11-%23009639.svg?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/11.10.3.66 cuda-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/nvidia cublas cu11-%23009639.svg?style=for-the-badge&logo=nvidia&logoColor=white"><img src="https://img.shields.io/badge/11.10.3.66 cuda-515151?style=for-the-badge">
 
 ### Search Server
 
