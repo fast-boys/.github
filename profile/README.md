@@ -29,9 +29,9 @@
 
 ### Authentication Server
 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/17-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/spring boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/3.2.4-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/spring cloud gateway-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/4.1.0-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/17-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"><img src="https://img.shields.io/badge/8.6-515151?style=for-the-badge">
 
 ### Core Server
@@ -61,9 +61,9 @@
 
 ### Stream Server
 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/17-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/spring boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/3.2.4-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/spring WebFlux-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/6.1.5-515151?style=for-the-badge">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/17-515151?style=for-the-badge">
 <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"><img src="https://img.shields.io/badge/8.6-515151?style=for-the-badge">
 
 ### DataBase
