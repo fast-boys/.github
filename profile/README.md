@@ -18,7 +18,7 @@
 |                                                     신창엽                                                     |                                     이재민                                      |                                        이우경                                        |
 | :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
 |                <img src="https://avatars.githubusercontent.com/u/69495305?v=4" height = 100px>                 | <img src="https://avatars.githubusercontent.com/u/48636376?v=4" height = 100px> |   <img src="https://avatars.githubusercontent.com/u/33650294?v=4" height = 100px>    |
-| `PM``DevOps`<br>[@404](https://github.com/404-not-foundl) |   `Back Dev.`<br>[@JaeMin Lee](https://github.com/Chosamee) | `AI Dev.`<br>[@Lee](https://github.com/Lee-search) |
+| `PM` `DevOps`<br>[@404](https://github.com/404-not-foundl) |   `Back Dev.`<br>[@JaeMin Lee](https://github.com/Chosamee) | `AI Dev.`<br>[@Lee](https://github.com/Lee-search) |
 |Infra<br>[Authentication Server](https://github.com/fast-boys/authentication)<br>[Stream Server](https://github.com/fast-boys/stream) | [Core Server](https://github.com/fast-boys/core)    | [AI Server](https://github.com/fast-boys/ai)<br>[Search Server](https://github.com/fast-boys/search) |
 
 <br><br>
