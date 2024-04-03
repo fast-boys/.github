@@ -11,7 +11,7 @@
 |                                     이우성                                      |                                      김형규                                      |                                      이준수                                      |
 | :-----------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
 | <img src="https://avatars.githubusercontent.com/u/42796944?v=4" height = 100px> | <img src="https://avatars.githubusercontent.com/u/139519661?v=4" height = 100px> | <img src="https://avatars.githubusercontent.com/u/139520011?v=4" height = 100px> |
-|           `FE 리더`<br>[@leewooseong](https://github.com/leewooseong)           |             `FE`<br>[@kim-hyunggyu](https://github.com/kim-hyunggyu)             |               `FE`<br>[@JUNSUTARO](https://github.com/LEEJUNSU11)                |
+|           `Frontend Leader`<br>[@leewooseong](https://github.com/leewooseong)           |             `Frontend`<br>[@kim-hyunggyu](https://github.com/kim-hyunggyu)             |               `Frontend`<br>[@JUNSUTARO](https://github.com/LEEJUNSU11)                |
 
 ### Back-end Team
 
