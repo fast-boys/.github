@@ -1,6 +1,6 @@
 # What is Fastravel?
 
-![Alt text](/profile/images/mainPage.PNG)
+![Style 3 (3)](https://github.com/user-attachments/assets/9146f068-0d41-475f-b8a4-68a6529c6005)
 
 <br><br>
 
